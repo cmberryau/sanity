@@ -1,0 +1,4 @@
+include README.md
+recursive-include sanity/migrations *.py
+recursive-include sanity/templates *.html
+recursive-include sanity/static *.*
